@@ -1,0 +1,6 @@
+I installed Visual Studio Code and the Microsoft C/C++ extension for C programming.
+I installed MSYS2 and the GCC compiler on my Windows laptop.
+During the setup, some MSYS2 package downloads initially failed because of connection errors.
+I reopened MSYS2 and ran the required update command again successfully.
+I installed the MinGW-w64 GCC toolchain and verified gcc and g++ using the version commands.
+Finally, I created hello.c, compiled it using GCC, and successfully displayed “Hello, World!”.
